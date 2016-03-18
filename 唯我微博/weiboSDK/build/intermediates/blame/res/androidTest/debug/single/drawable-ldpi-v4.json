@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_pressed.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_logo.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_logo.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_focused.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_account_text_normal.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png"
+    },
+    {
+        "merged": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_text.png",
+        "source": "/Users/huliang/Work/LearnAndroid/唯我微博/weiboSDK/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_com_sina_weibo_sdk_login_with_text.png"
+    }
+]

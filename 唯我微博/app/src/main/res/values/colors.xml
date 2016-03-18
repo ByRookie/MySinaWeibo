@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_cover">#25000000</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FFA500</color>
+
+    <color name="draw_text_color">#FF616161</color>
+    <color name="accent">#ff4081</color>
+    <color name="accent_pressed">#f50057</color>
+    <color name="ripple">#ff80ab</color>
+    <color name="host_background">#FFf2f2f2</color>
+
+    <!-- 光标的颜色 -->
+    <color name="none_color">#00000000</color>
+    <color name="bule_overlay">#660D92DD</color>
+    <color name="bottom_btn_pressed">#FFE6E6E6</color>
+    <color name="dark_gray">#1E2129</color>
+
+    <color name="md_actionbar_bg_color">#0087e7</color>
+    <color name="navigation_bar_color">#00528A</color>
+
+    <color name="dark_blue">#7874b8</color>
+    <color name="listview_checked_color_holo_light">#66ffffff</color>
+    <color name="progress_horizontal_progress">#0099CC</color>
+    <color name="ics_blue_semi">#66FFFFFF</color>
+
+    <!-- TopTipBar error color -->
+    <color name="top_tip_bar_error">#7FFF4444</color>
+    <color name="top_tip_bar_tip">#7F1E90FF</color>
+    <color name="list_divider_color">#ffe6e6e6</color>
+    <color name="listview_pic_background_light">#fff0f0f0</color>
+
+    <color name="image_loader_place_holder">#FFF0F0F0</color>
+
+    <color name="repost_content_tv_color">#5D5D5D</color>
+    <color name="weibbo_content_tv_color">#333333</color>
+    <color name="gray">#BEBEBE</color>
+    <color name="light_toolbar">@android:color/holo_blue_dark</color>
+    <color name="tran_light_toolbar">#86C3E9</color>
+    <color name="dark_toolbar">@android:color/black</color>
+    <color name="light_news_item">#FFF0F0F0</color>
+    <color name="dark_news_item">#DD000000</color>
+    <color name="light_news_topic">#ff666666</color>
+    <color name="dark_news_topic">#CCFFFFFF</color>
+    <color name="dark_selector_drawable">#FF333333</color>
+    <color name="light_menu_header">@android:color/holo_blue_dark</color>
+    <color name="dark_menu_header">@android:color/black</color>
+    <color name="light_menu_header_tv">@android:color/white</color>
+    <color name="dark_menu_header_tv">#CCFFFFFF</color>
+    <color name="light_menu_index_background">#FFF0F0F0</color>
+    <color name="dark_menu_index_background">#FF111111</color>
+    <color name="light_menu_listview_background">@android:color/white</color>
+    <color name="dark_menu_listview_background">#FF222222</color>
+    <color name="light_menu_listview_textcolor">#FF000000</color>
+    <color name="dark_menu_listview_textcolor">@android:color/darker_gray</color>
+    <color name="clicked_tv_textcolor">@android:color/darker_gray</color>
+
+    <color name="alpha_white">#49ffffff</color>
+    <color name="geek_green">#35b558</color>
+
+    <color name="primary_dark">#5d4037</color>
+    <color name="primary">#795548</color>
+    <color name="primary_light">#d7ccc8</color>
+    <color name="orange_alpha">#66ff8200</color>
+    <color name="orange_dark">#d46303</color>
+
+    <color name="txt_black">#232323</color>
+    <color name="txt_gray">#565656</color>
+    <color name="txt_light_gray">#898989</color>
+
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="bg_gray_light">#fcfcfc</color>
+    <color name="bg_gray_dark">#e8e8e8</color>
+    <color name="bg_agray">#49dddddd</color>
+    <color name="bg_gray_pressed">#e8e8e8</color>
+    <color name="txt_at_blue">#507daf</color>
+    <color name="bg_gray_bar">#f9f9f9</color>
+    <color name="divider_gray">#d7d7d7</color>
+
+
+</resources>

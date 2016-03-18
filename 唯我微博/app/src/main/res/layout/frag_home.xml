@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_news_item"
+    android:orientation="vertical">
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/loading_item"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        app:indicator="BallPulse"
+        app:indicator_color="@color/light_toolbar" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:visibility="visible"
+        android:id="@+id/lv_home"
+        style="@style/ListViewCommon"
+        android:layout_marginTop="-4dp"
+        android:dividerHeight="8dp"
+        android:padding="4dp" />
+
+</FrameLayout>

@@ -1,0 +1,4 @@
+include ':app', ':XImageView'
+include ':pulltorefresh'
+include ':uil'
+include ':weiboSDK'
